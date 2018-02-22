@@ -1,4 +1,7 @@
-# Week 3 - Exercise 3 - Collatz-Conjecture
+# Exercises
+
+***************Week 3 - Exercise 3 - Collatz-Conjecture****************
+
 FileName : Collatz-Conjecture.py
 
 Simple program to create the Collatz Conjecture Series
