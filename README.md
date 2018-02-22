@@ -1,4 +1,6 @@
-# Collatz-Conjecture
+# Week 3 - Exercise 3 - Collatz-Conjecture
+FileName : Collatz-Conjecture.py
+
 Simple program to create the Collatz Conjecture Series
 
 Description : The program will take the first value of the Collatz Conjecture series and will produce the whole series as output
