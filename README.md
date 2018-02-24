@@ -8,20 +8,9 @@ Simple program to create the Collatz Conjecture Series
 
 Description : The program will take the first value of the Collatz Conjecture series and will produce the whole series as output
 
-For instance, take the start value as 17, then output will be as follows:
+**************Week 5 - Exercise 4 - Smallest Number Divisible by 1 - 20******************
 
-c:\GMIT\Scripting\Collatz>python CollatzConjecture.py                                       
-Please enter the starting value for the Collatz Conjecture :17                              
-17                                                                                          
-52                                                                                          
-26                                                                                          
-13                                                                                          
-40                                                                                          
-20                                                                                          
-10                                                                                          
-5                                                                                           
-16                                                                                          
-8                                                                                           
-4                                                                                           
-2                                                                                           
-1
+FileName : SmallestNum.py
+
+Description : This program will output the smallest integer that is evenly divisble by all numbers between and inclusing 1 and 20.
+The smallest number as returned by the program is  : 232792560
