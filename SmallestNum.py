@@ -1,6 +1,8 @@
 # Author: Mohamed Shammas Mohamed Ali Manaf 
 # Date : 2018-02-24
 # Description : Program that calculates the smallest number divisible evenly by all numbers between 0 and 20
+# References : https://www.programiz.com/python-programming/break-continue
+#	       https://www.pythoncentral.io/pythons-range-function-explained/
 # Note : The program took almost 3 minutes to display the o/p because of the volume of loops involved.
 
 smallestNum = 0 										# variable to assign the smallest number
@@ -17,3 +19,6 @@ while smallestNum == 0: 								# this while loop will iterate through all integ
 	intValue+=1											# increment the value of intValue by 1
 print('The smallest number evenly divisible by all number bewteen and incluing 1 and 20 is : ',smallestNum)										# Display value
 		
+# Output of the program is follows:
+# c:\GMIT\Scripting\Week5 -- Smallest Number divisible>python SmallestNum.py                                                              
+# The smallest number evenly divisible by all number bewteen and incluing 1 and 20 is :  232792560  
