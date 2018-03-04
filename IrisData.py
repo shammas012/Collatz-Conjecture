@@ -3,7 +3,8 @@
 # Description : Print the petal length, petal width, sepal length and sepal width from the Iris Data DataSet to the terminal, 
 #				with the decimal places aligned, with a space between the columns
 #References : https://stackoverflow.com/questions/1025379/decimal-alignment-formatting-in-python
-#
+#           : https://www.python-course.eu/python3_formatted_output.php
+#           : https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3
 			  
 
 # Opens the file IrishData.csv
