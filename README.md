@@ -20,3 +20,9 @@ The smallest number as returned by the program is  : 232792560
 FileName : IrisData.py
 
 Description : Print the petal length, petal width, sepal length and sepal width from the Iris Data DataSet to the terminal, with the decimal places aligned, with a space between the columns.
+
+**************Week 7 - Exercise 6 - Factorial of a number using functions******************
+
+FileName : Factorial.py
+
+Description :  A Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial
